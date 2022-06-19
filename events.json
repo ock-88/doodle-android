@@ -6,7 +6,7 @@
         "heading": "Event",
         "link": "https://www.leekduck.com/events/adventure-week-2022-research-day/",
         "image": "https://www.leekduck.com/assets/img/events/adventure-week-2022.jpg?v2",
-        "start": "2022-06-19T23:00:00.000",
+        "start": "2022-06-19T23:45:00.000",
         "end": "2022-06-22T15:00:00.000",
         "extraData": null
     },
@@ -18,7 +18,7 @@
         "link": "https://www.leekduck.com/events/adventure-week-2022/",
         "image": "https://www.leekduck.com/assets/img/events/adventure-week-2022.jpg?v2",
         "start": null,
-        "end": "2022-06-20T06:00:00.000",
+        "end": "2022-06-20T07:00:00.000",
         "extraData": null
     },
     {
@@ -47,7 +47,7 @@
         "link": "https://www.leekduck.com/events/season-11-ultra-league-catch-cup-go-fest-edition/",
         "image": "https://www.leekduck.com/assets/img/events/go-battle-league-ultra-league-machamp-swampert.jpg",
         "start": null,
-        "end": "2022-06-20T23:00:00.000Z",
+        "end": "2022-06-20T23:30:00.000Z",
         "extraData": null
     },
     {
@@ -69,7 +69,7 @@
         "link": "https://www.leekduck.com/events/groudon-returns-to-5-star-raid-battles-june-2022/",
         "image": "https://www.leekduck.com/assets/img/events/groudon.jpg",
         "start": null,
-        "end": "2022-06-16T10:00:00.000",
+        "end": "2022-06-22T01:00:00.000",
         "extraData": null
     },
     {
@@ -80,7 +80,7 @@
         "link": "https://www.leekduck.com/events/mega-aerodactyl-returns-to-mega-raids-june-2022/",
         "image": "https://www.leekduck.com/assets/img/events/mega-default.jpg",
         "start": null,
-        "end": "2022-06-16T10:00:00.000",
+        "end": "2022-06-22T10:00:00.000",
         "extraData": null
     },
     {
@@ -90,8 +90,8 @@
         "heading": "Event",
         "link": "https://www.leekduck.com/events/go-battle-day-mankey/",
         "image": "https://www.leekduck.com/assets/img/events/gobattlenightflyingcup.jpg",
-        "start": "2022-06-18T00:00:00.000",
-        "end": "2022-06-18T23:59:59.000",
+        "start": "2022-06-22T20:00:00.000",
+        "end": "2022-06-23T23:59:59.000",
         "extraData": null
     },
     {
@@ -101,8 +101,8 @@
         "heading": "Pokémon Spotlight Hour",
         "link": "https://www.leekduck.com/events/pokemonspotlighthour2022-06-21/",
         "image": "https://www.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
-        "start": "2022-06-21T18:00:00.000",
-        "end": "2022-06-21T19:00:00.000",
+        "start": "2022-06-22T23:40:00.000",
+        "end": "2022-06-23T19:00:00.000",
         "extraData": {
             "spotlight": {
                 "name": "Spinarak",
