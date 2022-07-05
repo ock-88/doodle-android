@@ -6,8 +6,8 @@
         "heading": "Community Day",
         "link": "https://www.leekduck.com/events/june-communityday2022/",
         "image": "https://www.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/cd-june2022-deino.jpg",
-        "start": "2022-06-25T11:00:00.000",
-        "end": "2022-06-25T14:00:00.000",
+        "start": "2022-07-05T22:00:00.000",
+        "end": "2022-07-05T23:00:00.000",
         "extraData": null
     },
     {
@@ -17,8 +17,8 @@
         "heading": "Pokémon Spotlight Hour",
         "link": "https://www.leekduck.com/events/pokemonspotlighthour2022-06-28/",
         "image": "https://www.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/pokemonspotlighthour.jpg",
-        "start": "2022-06-28T18:00:00.000",
-        "end": "2022-06-28T19:00:00.000",
+        "start": "2022-07-05T23:00:00.000",
+        "end": "2022-07-05T23:50:00.000",
         "extraData": {
             "spotlight": {
                 "name": "TCG Hat Pikachu",
@@ -35,8 +35,8 @@
         "heading": "GO Battle League",
         "link": "https://www.leekduck.com/events/season-11-great-league-retro-cup/",
         "image": "https://www.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/gobattle-greatleague-key.jpg",
-        "start": null,
-        "end": "2022-06-29T20:00:00.000Z",
+        "start": "2022-07-05T20:00:00.000",
+        "end": "2022-07-05T23:50:00.000",
         "extraData": null
     },
     {
@@ -46,8 +46,8 @@
         "heading": "Raid Hour",
         "link": "https://www.leekduck.com/events/legendaryraidhour20220629/",
         "image": "https://www.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/raidhour.jpg",
-        "start": "2022-06-29T18:00:00.000",
-        "end": "2022-06-29T19:00:00.000",
+        "start": "2022-07-05T20:00:00.000",
+        "end": "2022-07-05T22:30:00.000",
         "extraData": null
     },
     {
