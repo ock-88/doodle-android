@@ -80,7 +80,7 @@
     {
         "eventID": "mega-abomasnow-returns-to-mega-raids-august-2022",
         "name": "Mega Abomasnow in Mega Raids",
-        "eventType": "raid-battles",
+        "eventType": "special-research",
         "heading": "Raid Battles",
         "link": "https://www.leekduck.com/events/mega-abomasnow-returns-to-mega-raids-august-2022/",
         "image": "https://www.leekduck.com/assets/img/events/mega-default.jpg",
@@ -107,7 +107,7 @@
     {
         "eventID": "season-11-great-league_element-cup",
         "name": "Season 11: Great League and Element Cup",
-        "eventType": "go-battle-league",
+        "eventType": "limited-research",
         "heading": "GO Battle League",
         "link": "https://www.leekduck.com/events/season-11-great-league_element-cup/",
         "image": "https://www.leekduck.com/assets/img/events/gobattle-greatleague-key.jpg",
