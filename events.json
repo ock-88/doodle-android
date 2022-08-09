@@ -1,35 +1,24 @@
 [
     {
-        "eventID": "season-11-master-league_hisuian-cup",
-        "name": "Season 11: Master League and Hisuian Cup",
-        "eventType": "go-battle-league",
-        "heading": "GO Battle League",
-        "link": "https://www.leekduck.com/events/season-11-master-league_hisuian-cup/",
-        "image": "https://www.leekduck.com/assets/img/events/gobattleleague-master-key.jpg",
-        "start": "2022-08-09T19:30:00.000",
-        "end": "2022-08-09T19:40:00.000",
-        "extraData": null
-    },
-    {
-        "eventID": "legendaryraidhour20220803",
-        "name": "Palkia Raid Hourz",
-        "eventType": "raid-hour",
-        "heading": "Raid Hour",
-        "link": "https://www.leekduck.com/events/legendaryraidhour20220803/",
-        "image": "https://www.leekduck.com/assets/img/events/raidhour.jpg",
-        "start": "2022-08-07T19:15:00.000",
-        "end": "2022-08-07T19:25:00.000",
-        "extraData": null
-    },
-    {
         "eventID": "pokemon-go-fest-sapporo-2022",
-        "name": "Pokémon GO Fest: Sapporoz",
+        "name": "Pokémon GO Fest: Sapporo",
         "eventType": "pokemon-go-fest",
         "heading": "Pokémon GO Fest",
         "link": "https://www.leekduck.com/events/pokemon-go-fest-sapporo-2022/",
         "image": "https://www.leekduck.com/assets/img/events/pokemon-go-fest-sapporo-2022-ultrabeast.jpg",
-        "start": "2022-08-07T19:45:00.000",
-        "end": "2022-08-07T19:57:00.000",
+        "start": null,
+        "end": "2022-08-07T11:00:00.000Z",
+        "extraData": null
+    },
+    {
+        "eventID": "pokemon-go-fest-sapporo-ultra-unlock",
+        "name": "Pokémon GO Fest 2022: Sapporo Ultra Unlock",
+        "eventType": "event",
+        "heading": "Event",
+        "link": "https://www.leekduck.com/events/pokemon-go-fest-sapporo-ultra-unlock/",
+        "image": "https://www.leekduck.com/assets/img/events/pokemon-go-fest-sapporo-2022-ultrabeast.jpg",
+        "start": null,
+        "end": "2022-08-07T20:00:00.000",
         "extraData": null
     },
     {
@@ -39,8 +28,8 @@
         "heading": "Pokémon Spotlight Hour",
         "link": "https://www.leekduck.com/events/pokemonspotlighthour2022-08-09/",
         "image": "https://www.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
-        "start": "2022-08-07T19:56:00.000",
-        "end": "2022-08-07T19:58:00.000",
+        "start": "2022-08-09T18:00:00.000",
+        "end": "2022-08-09T19:00:00.000",
         "extraData": {
             "spotlight": {
                 "name": "Nidoran♀",
@@ -58,7 +47,7 @@
         "link": "https://www.leekduck.com/events/palkia-returns-to-5-star-raid-battles-august-2022/",
         "image": "https://www.leekduck.com/assets/img/events/palkiaraid.jpg",
         "start": null,
-        "end": "2022-08-07T16:00:00.000",
+        "end": "2022-08-10T10:00:00.000",
         "extraData": {
             "raidbattles": {
                 "bosses": [
@@ -80,7 +69,7 @@
     {
         "eventID": "mega-abomasnow-returns-to-mega-raids-august-2022",
         "name": "Mega Abomasnow in Mega Raids",
-        "eventType": "special-research",
+        "eventType": "raid-battles",
         "heading": "Raid Battles",
         "link": "https://www.leekduck.com/events/mega-abomasnow-returns-to-mega-raids-august-2022/",
         "image": "https://www.leekduck.com/assets/img/events/mega-default.jpg",
@@ -107,11 +96,11 @@
     {
         "eventID": "season-11-great-league_element-cup",
         "name": "Season 11: Great League and Element Cup",
-        "eventType": "limited-research",
+        "eventType": "go-battle-league",
         "heading": "GO Battle League",
         "link": "https://www.leekduck.com/events/season-11-great-league_element-cup/",
         "image": "https://www.leekduck.com/assets/img/events/gobattle-greatleague-key.jpg",
-        "start": "2022-08-03T20:00:00.000Z",
+        "start": null,
         "end": "2022-08-10T20:00:00.000Z",
         "extraData": null
     },
@@ -169,11 +158,19 @@
                         "image": "https://www.leekduck.com/assets/img/events/bonuses/candyxl.png"
                     },
                     {
-                        "text": "One additional Special Trade can be made for a maximum of three for the day.*",
+                        "text": "2x Catch XP*",
+                        "image": "https://www.leekduck.com/assets/img/events/bonuses/xp.png"
+                    },
+                    {
+                        "text": "2x Transfer Candy*",
+                        "image": "https://www.leekduck.com/assets/img/events/bonuses/candy.png"
+                    },
+                    {
+                        "text": "Two additional Special Trade can be made for a maximum of four for the day.*",
                         "image": "https://www.leekduck.com/assets/img/events/bonuses/trade.png"
                     },
                     {
-                        "text": "Trades made during the event and up to five hours afterward will require 50% less Stardust.*",
+                        "text": "Trades made during the event and up to five hours afterward will require 75% less Stardust.*",
                         "image": "https://www.leekduck.com/assets/img/events/bonuses/stardust2x.png"
                     }
                 ],
@@ -384,7 +381,7 @@
         "eventType": "event",
         "heading": "Event",
         "link": "https://www.leekduck.com/events/bug-out-event-2022/",
-        "image": "https://www.leekduck.com/assets/img/events/events-default-img.jpg",
+        "image": "https://www.leekduck.com/assets/img/events/bug-out-2022-ultra.jpg",
         "start": "2022-08-10T10:00:00.000",
         "end": "2022-08-16T20:00:00.000",
         "extraData": null
@@ -444,7 +441,13 @@
         "end": "2022-08-18T10:00:00.000",
         "extraData": {
             "raidbattles": {
-                "bosses": [],
+                "bosses": [
+                    {
+                        "name": "Mega Scizor",
+                        "image": "https://www.leekduck.com/assets/img/pokemon_icons/pm212.fMEGA.icon.png",
+                        "canBeShiny": true
+                    }
+                ],
                 "shinies": [
                     {
                         "name": "Scizor",
@@ -540,7 +543,7 @@
         "link": "https://www.leekduck.com/events/pokemon-go-fest-2022-bonus-finale-event/",
         "image": "https://www.leekduck.com/assets/img/events/pokemon-go-fest-2022.jpg",
         "start": "2022-08-27T10:00:00.000",
-        "end": "2022-08-27T20:00:00.000",
+        "end": "2022-08-27T18:00:00.000",
         "extraData": null
     },
     {
