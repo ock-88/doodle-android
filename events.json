@@ -7,7 +7,7 @@
         "link": "https://www.leekduck.com/events/pokemon-go-fest-sapporo-2022/",
         "image": "https://www.leekduck.com/assets/img/events/pokemon-go-fest-sapporo-2022-ultrabeast.jpg",
         "start": null,
-        "end": "2022-08-07T11:00:00.000Z",
+        "end": "2022-08-24T22:15:00.000",
         "extraData": null
     },
     {
@@ -18,7 +18,7 @@
         "link": "https://www.leekduck.com/events/pokemon-go-fest-sapporo-ultra-unlock/",
         "image": "https://www.leekduck.com/assets/img/events/pokemon-go-fest-sapporo-2022-ultrabeast.jpg",
         "start": null,
-        "end": "2022-08-07T20:00:00.000",
+        "end": "2022-08-24T22:17:00.000",
         "extraData": null
     },
     {
@@ -28,8 +28,8 @@
         "heading": "Pokémon Spotlight Hour",
         "link": "https://www.leekduck.com/events/pokemonspotlighthour2022-08-09/",
         "image": "https://www.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
-        "start": "2022-08-09T18:00:00.000",
-        "end": "2022-08-09T19:00:00.000",
+        "start": "2022-08-24T22:20:00.000",
+        "end": "2022-08-24T22:22:00.000",
         "extraData": {
             "spotlight": {
                 "name": "Nidoran♀",
