@@ -29,6 +29,17 @@
         "extraData": null
     },
     {
+        "eventID": "raidhour20221208",
+        "name": "GGC Raid Hour",
+        "eventType": "raid-hour",
+        "heading": "Raid Hour",
+        "link": "https://leekduck.com/events/raidhour20221207/",
+        "image": "https://leekduck.com/assets/img/events/raidhour.jpg",
+        "start": "2022-12-05T19:10:00.000",
+        "end": "2022-12-05T19:20:00.000",
+        "extraData": null
+    },
+    {
         "eventID": "verizion-in-5-star-raid-battles-december-2022",
         "name": "Virizion in 5-star Raid Battles",
         "eventType": "raid-battles",
