@@ -1,366 +1,196 @@
 [
     {
-        "eventID": "season-12-great-league_psychic-cup",
-        "name": "Great League and Psychic Cup | Season of Light",
-        "eventType": "go-battle-league",
-        "heading": "GO Battle League",
-        "link": "https://leekduck.com/events/season-12-great-league_psychic-cup/",
-        "image": "https://leekduck.com/assets/img/events/gobattle-greatleague-key.jpg",
-        "start": null,
-        "end": "2022-09-15T20:00:00.000Z",
-        "extraData": null
-    },
-    {
-        "eventID": "mega-alakazam-in-mega-raids-september-2022",
-        "name": "Mega Alakazam in Mega Raids",
-        "eventType": "raid-battles",
-        "heading": "Raid Battles",
-        "link": "https://leekduck.com/events/mega-alakazam-in-mega-raids-september-2022/",
-        "image": "https://leekduck.com/assets/img/events/mega-default.jpg",
-        "start": null,
-        "end": "2022-09-16T10:00:00.000",
+        "eventID": "pokemonspotlighthour2022-12-06",
+        "name": "Wooper Spotlight Hour",
+        "eventType": "pokemon-spotlight-hour",
+        "heading": "Pokémon Spotlight Hour",
+        "link": "https://leekduck.com/events/pokemonspotlighthour2022-12-06/",
+        "image": "https://leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+        "start": "2022-12-06T18:00:00.000",
+        "end": "2022-12-06T19:00:00.000",
         "extraData": {
-            "raidbattles": {
-                "bosses": [],
-                "shinies": []
+            "spotlight": {
+                "name": "Wooper",
+                "canBeShiny": true,
+                "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_194_00.png",
+                "bonus": "2× Catch Stardust"
             }
         }
     },
     {
-        "eventID": "september-communityday2022",
-        "name": "Roggenrola Community Day",
-        "eventType": "community-day",
-        "heading": "Community Day",
-        "link": "https://leekduck.com/events/september-communityday2022/",
-        "image": "https://leekduck.com/assets/img/events/cd-2022-09-roggenrola.jpg",
-        "start": "2022-09-18T14:00:00.000",
-        "end": "2022-09-18T17:00:00.000",
+        "eventID": "raidhour20221207",
+        "name": "Virizion Raid Hour",
+        "eventType": "raid-hour",
+        "heading": "Raid Hour",
+        "link": "https://leekduck.com/events/raidhour20221207/",
+        "image": "https://leekduck.com/assets/img/events/raidhour.jpg",
+        "start": "2022-12-07T18:00:00.000",
+        "end": "2022-12-07T19:00:00.000",
+        "extraData": null
+    },
+    {
+        "eventID": "verizion-in-5-star-raid-battles-december-2022",
+        "name": "Virizion in 5-star Raid Battles",
+        "eventType": "raid-battles",
+        "heading": "Raid Battles",
+        "link": "https://leekduck.com/events/verizion-in-5-star-raid-battles-december-2022/",
+        "image": "https://leekduck.com/assets/img/events/virizion.jpg",
+        "start": "2022-12-01T10:00:00.000",
+        "end": "2022-12-08T10:00:00.000",
         "extraData": {
-            "communityday": {
-                "spawns": [
+            "raidbattles": {
+                "bosses": [
                     {
-                        "name": "Roggenrola",
-                        "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_524_00.png"
+                        "name": "Virizion",
+                        "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_640_00.png",
+                        "canBeShiny": true
                     }
-                ],
-                "bonuses": [
-                    {
-                        "text": "Increased Spawns",
-                        "image": "https://leekduck.com/assets/img/events/bonuses/wildgrass.png"
-                    },
-                    {
-                        "text": "1/4 Hatch Distance",
-                        "image": "https://leekduck.com/assets/img/events/bonuses/eggdistance.png"
-                    },
-                    {
-                        "text": "3-hour Incense",
-                        "image": "https://leekduck.com/assets/img/events/bonuses/incense.png"
-                    },
-                    {
-                        "text": "3-hour Lures",
-                        "image": "https://leekduck.com/assets/img/events/bonuses/luresall.png"
-                    },
-                    {
-                        "text": "2x Catch Candy",
-                        "image": "https://leekduck.com/assets/img/events/bonuses/candy.png"
-                    },
-                    {
-                        "text": "2x Chance to receive Candy XL from catching Pokémon",
-                        "image": "https://leekduck.com/assets/img/events/bonuses/candyxl.png"
-                    },
-                    {
-                        "text": "One additional Special Trade can be made for a maximum of two for the day*",
-                        "image": "https://leekduck.com/assets/img/events/bonuses/trade.png"
-                    },
-                    {
-                        "text": "Trades made will require 50% less Stardust*",
-                        "image": "https://leekduck.com/assets/img/events/bonuses/stardust2x.png"
-                    }
-                ],
-                "bonusDisclaimers": [
-                    "* While most bonuses are only active during the three hours of the event, these bonuses will be active from 2:00 p.m. to 10:00 p.m. local time."
                 ],
                 "shinies": [
                     {
-                        "name": "Roggenrola",
-                        "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_524_00_shiny.png"
-                    },
-                    {
-                        "name": "Boldore",
-                        "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_525_00_shiny.png"
-                    },
-                    {
-                        "name": "Gigalith",
-                        "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_526_00_shiny.png"
-                    }
-                ],
-                "specialresearch": [
-                    {
-                        "name": "Rock ‘n’ Roll (1/4)",
-                        "step": 1,
-                        "tasks": [
-                            {
-                                "text": "Power up Pokémon 10 times",
-                                "reward": {
-                                    "text": "Poké Ball ×15",
-                                    "image": "https://leekduck.com/assets/img/items/Pok%C3%A9%20Ball.png"
-                                }
-                            },
-                            {
-                                "text": "Catch 15 Roggenrola",
-                                "reward": {
-                                    "text": "Roggenrola",
-                                    "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_524_00.png"
-                                }
-                            },
-                            {
-                                "text": "Make 5 Nice Throws",
-                                "reward": {
-                                    "text": "Roggenrola Candy ×20",
-                                    "image": "https://leekduck.com/assets/img/candy/524.png"
-                                }
-                            }
-                        ],
-                        "rewards": [
-                            {
-                                "text": "×2000",
-                                "image": "https://leekduck.com/assets/img/items/Stardust.png"
-                            },
-                            {
-                                "text": "Roggenrola",
-                                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_524_00.png"
-                            },
-                            {
-                                "text": "×1",
-                                "image": "https://leekduck.com/assets/img/items/Star%20Piece.png"
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Rock ‘n’ Roll (2/4)",
-                        "step": 2,
-                        "tasks": [
-                            {
-                                "text": "Catch 15 Roggenrola",
-                                "reward": {
-                                    "text": "Roggenrola Candy ×30",
-                                    "image": "https://leekduck.com/assets/img/candy/524.png"
-                                }
-                            },
-                            {
-                                "text": "Transfer 10 Pokémon",
-                                "reward": {
-                                    "text": "Boldore",
-                                    "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_525_00.png"
-                                }
-                            },
-                            {
-                                "text": "Evolve 3 Roggenrola",
-                                "reward": {
-                                    "text": "Pinap Berry ×10",
-                                    "image": "https://leekduck.com/assets/img/items/Pinap%20Berry.png"
-                                }
-                            }
-                        ],
-                        "rewards": [
-                            {
-                                "text": "1500 XP",
-                                "image": "https://leekduck.com/assets/img/icons/xp.png"
-                            },
-                            {
-                                "text": "Roggenrola",
-                                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_524_00.png"
-                            },
-                            {
-                                "text": "×1",
-                                "image": "https://leekduck.com/assets/img/items/Star%20Piece.png"
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Rock ‘n’ Roll (3/4)",
-                        "step": 3,
-                        "tasks": [
-                            {
-                                "text": "Make 3 Great Curveball Throws",
-                                "reward": {
-                                    "text": "Roggenrola Candy ×50",
-                                    "image": "https://leekduck.com/assets/img/candy/524.png"
-                                }
-                            },
-                            {
-                                "text": "Evolve 1 Boldore",
-                                "reward": {
-                                    "text": "Lucky Egg ×1",
-                                    "image": "https://leekduck.com/assets/img/items/Lucky%20Egg.png"
-                                }
-                            },
-                            {
-                                "text": "Transfer 10 Pokémon",
-                                "reward": {
-                                    "text": "Great Ball ×15",
-                                    "image": "https://leekduck.com/assets/img/items/Great%20Ball.png"
-                                }
-                            }
-                        ],
-                        "rewards": [
-                            {
-                                "text": "2500 XP",
-                                "image": "https://leekduck.com/assets/img/icons/xp.png"
-                            },
-                            {
-                                "text": "×1",
-                                "image": "https://leekduck.com/assets/img/items/Rocket%20Radar.png"
-                            },
-                            {
-                                "text": "×15",
-                                "image": "https://leekduck.com/assets/img/items/Ultra%20Ball.png"
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Rock ‘n’ Roll (4/4)",
-                        "step": 4,
-                        "tasks": [
-                            {
-                                "text": "Claim Reward!",
-                                "reward": {
-                                    "text": "Silver Pinap Berry ×2",
-                                    "image": "https://leekduck.com/assets/img/items/Silver%20Pinap%20Berry.png"
-                                }
-                            },
-                            {
-                                "text": "Claim Reward!",
-                                "reward": {
-                                    "text": "Roggenrola",
-                                    "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_524_00.png"
-                                }
-                            },
-                            {
-                                "text": "Claim Reward!",
-                                "reward": {
-                                    "text": "3500 XP",
-                                    "image": "https://leekduck.com/assets/img/icons/xp.png"
-                                }
-                            }
-                        ],
-                        "rewards": [
-                            {
-                                "text": "×3000",
-                                "image": "https://leekduck.com/assets/img/items/Stardust.png"
-                            },
-                            {
-                                "text": "Gigalith",
-                                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_526_00.png"
-                            },
-                            {
-                                "text": "×3",
-                                "image": "https://leekduck.com/assets/img/items/Rare%20Candy.png"
-                            }
-                        ]
+                        "name": "Virizion",
+                        "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_640_00_shiny.png"
                     }
                 ]
             }
         }
     },
     {
-        "eventID": "pokemonspotlighthour2022-09-20",
-        "name": "Aron Spotlight Hour",
-        "eventType": "pokemon-spotlight-hour",
-        "heading": "Pokémon Spotlight Hour",
-        "link": "https://leekduck.com/events/pokemonspotlighthour2022-09-20/",
-        "image": "https://leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
-        "start": "2022-09-20T18:00:00.000",
-        "end": "2022-09-20T19:00:00.000",
-        "extraData": {
-            "spotlight": {
-                "name": "Aron",
-                "canBeShiny": true,
-                "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_304_00.png",
-                "bonus": "2× Catch Candy"
-            }
-        }
-    },
-    {
-        "eventID": "raidhour20220921",
-        "name": "Celesteela and Kartana Raid Hour",
-        "eventType": "raid-hour",
-        "heading": "Raid Hour",
-        "link": "https://leekduck.com/events/raidhour20220921/",
-        "image": "https://leekduck.com/assets/img/events/raidhour.jpg",
-        "start": "2022-09-21T18:00:00.000",
-        "end": "2022-09-21T19:00:00.000",
-        "extraData": null
-    },
-    {
-        "eventID": "test-your-mettle",
-        "name": "Test Your Mettle",
-        "eventType": "event",
-        "heading": "Event",
-        "link": "https://leekduck.com/events/test-your-mettle/",
-        "image": "https://leekduck.com/assets/img/events/test-your-mettle-event.jpg",
-        "start": "2022-09-16T10:00:00.000",
-        "end": "2022-09-21T20:00:00.000",
-        "extraData": null
-    },
-    {
-        "eventID": "season-12-ultra-league_weather-cup",
-        "name": "Ultra League and Weather Cup | Season of Light",
-        "eventType": "go-battle-league",
-        "heading": "GO Battle League",
-        "link": "https://leekduck.com/events/season-12-ultra-league_weather-cup/",
-        "image": "https://leekduck.com/assets/img/events/go-battle-league-ultra-league-machamp-swampert.jpg",
-        "start": "2022-09-15T20:00:00.000Z",
-        "end": "2022-09-22T20:00:00.000Z",
-        "extraData": null
-    },
-    {
-        "eventID": "safari-zone-at-goyang-south-korea-2022",
-        "name": "Safari Zone: Goyang, South Korea",
-        "eventType": "safari-zone",
-        "heading": "Safari Zone",
-        "link": "https://leekduck.com/events/safari-zone-at-goyang-south-korea-2022/",
-        "image": "https://leekduck.com/assets/img/events/safari-zone-goyang-korea-2022.png",
-        "start": "2022-09-23T03:00:00.000Z",
-        "end": "2022-09-25T09:00:00.000Z",
-        "extraData": null
-    },
-    {
-        "eventID": "celesteela-and-kartana-in-5-star-raid-battles",
-        "name": "Celesteela and Kartana in 5-star Raid Battles",
+        "eventID": "mega-abomasnow-in-mega-raids-december-2022",
+        "name": "Mega Abomasnow in Mega Raids",
         "eventType": "raid-battles",
         "heading": "Raid Battles",
-        "link": "https://leekduck.com/events/celesteela-and-kartana-in-5-star-raid-battles/",
-        "image": "https://leekduck.com/assets/img/events/celesteela-and-kartana-ultra-beast.jpg",
-        "start": null,
-        "end": "2022-09-27T10:00:00.000",
+        "link": "https://leekduck.com/events/mega-abomasnow-in-mega-raids-december-2022/",
+        "image": "https://leekduck.com/assets/img/events/mega-default.jpg",
+        "start": "2022-12-01T10:00:00.000",
+        "end": "2022-12-08T10:00:00.000",
         "extraData": {
             "raidbattles": {
                 "bosses": [
                     {
-                        "name": "Celesteela",
-                        "image": "https://leekduck.com/assets/img/pokemon_icons/pm797.icon.png",
-                        "canBeShiny": false
-                    },
-                    {
-                        "name": "Kartana",
-                        "image": "https://leekduck.com/assets/img/pokemon_icons/pm798.icon.png",
-                        "canBeShiny": false
+                        "name": "Mega Abomasnow",
+                        "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_460_51.png",
+                        "canBeShiny": true
                     }
                 ],
-                "shinies": []
+                "shinies": [
+                    {
+                        "name": "Abomasnow",
+                        "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_460_00_shiny.png"
+                    }
+                ]
             }
         }
     },
     {
-        "eventID": "mega-aggron-in-mega-raids-september-2022-2",
+        "eventID": "season-13-great-league_great-league-remix",
+        "name": "Great League and Great League Remix | Mythical Wishes",
+        "eventType": "go-battle-league",
+        "heading": "GO Battle League",
+        "link": "https://leekduck.com/events/season-13-great-league_great-league-remix/",
+        "image": "https://leekduck.com/assets/img/events/gobattle-greatleague-key.jpg",
+        "start": "2022-12-04T18:30:00.000",
+        "end": "2022-12-04T18:40:00.000",
+        "extraData": null
+    },
+    {
+        "eventID": "unannounced-elite-raid-december-2022",
+        "name": "Unannounced Pokémon in Elite Raids",
+        "eventType": "elite-raids",
+        "heading": "Elite Raids",
+        "link": "https://leekduck.com/events/unannounced-elite-raid-december-2022/",
+        "image": "https://leekduck.com/assets/img/events/events-default-img.jpg",
+        "start": "2022-12-04T18:30:00.000",
+        "end": "2022-12-04T18:40:00.000",
+        "extraData": null
+    },
+    {
+        "eventID": "mythic-blade-event",
+        "name": "Mythic Blade",
+        "eventType": "event",
+        "heading": "Event",
+        "link": "https://leekduck.com/events/mythic-blade-event/",
+        "image": "https://leekduck.com/assets/img/events/mythic-blade-keledo.jpg",
+        "start": "2022-12-06T10:00:00.000",
+        "end": "2022-12-11T20:00:00.000",
+        "extraData": null
+    },
+    {
+        "eventID": "something-extraordinary-keldeo-special-research",
+        "name": "Something Extraordinary: Keldeo Special Research",
+        "eventType": "research",
+        "heading": "Research",
+        "link": "https://leekduck.com/events/something-extraordinary-keldeo-special-research/",
+        "image": "https://leekduck.com/assets/img/events/mythic-blade-keledo.jpg",
+        "start": "2022-12-04T18:50:00.000",
+        "end": "2022-12-04T18:55:00.000",
+        "extraData": null
+    },
+    {
+        "eventID": "pokemonspotlighthour2022-12-13",
+        "name": "Spheal Spotlight Hour",
+        "eventType": "pokemon-spotlight-hour",
+        "heading": "Pokémon Spotlight Hour",
+        "link": "https://leekduck.com/events/pokemonspotlighthour2022-12-13/",
+        "image": "https://leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+        "start": "2022-12-13T18:00:00.000",
+        "end": "2022-12-13T19:00:00.000",
+        "extraData": {
+            "spotlight": {
+                "name": "Spheal",
+                "canBeShiny": true,
+                "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_363_00.png",
+                "bonus": "2× Catch XP"
+            }
+        }
+    },
+    {
+        "eventID": "raidhour20221214",
+        "name": "Terrakion Raid Hour",
+        "eventType": "raid-hour",
+        "heading": "Raid Hour",
+        "link": "https://leekduck.com/events/raidhour20221214/",
+        "image": "https://leekduck.com/assets/img/events/raidhour.jpg",
+        "start": "2022-12-14T18:00:00.000",
+        "end": "2022-12-14T19:00:00.000",
+        "extraData": null
+    },
+    {
+        "eventID": "terrakion-in-5-star-raid-battles-december-2022",
+        "name": "Terrakion in 5-star Raid Battles",
+        "eventType": "raid-battles",
+        "heading": "Raid Battles",
+        "link": "https://leekduck.com/events/terrakion-in-5-star-raid-battles-december-2022/",
+        "image": "https://leekduck.com/assets/img/events/terrakion.jpg",
+        "start": "2022-12-08T10:00:00.000",
+        "end": "2022-12-15T10:00:00.000",
+        "extraData": {
+            "raidbattles": {
+                "bosses": [
+                    {
+                        "name": "Terrakion",
+                        "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_639_00.png",
+                        "canBeShiny": true
+                    }
+                ],
+                "shinies": [
+                    {
+                        "name": "Terrakion",
+                        "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_639_00_shiny.png"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "eventID": "mega-aggron-in-mega-raids-december-2022",
         "name": "Mega Aggron in Mega Raids",
         "eventType": "raid-battles",
         "heading": "Raid Battles",
-        "link": "https://leekduck.com/events/mega-aggron-in-mega-raids-september-2022-2/",
+        "link": "https://leekduck.com/events/mega-aggron-in-mega-raids-december-2022/",
         "image": "https://leekduck.com/assets/img/events/mega-default.jpg",
-        "start": "2022-09-16T10:00:00.000",
-        "end": "2022-09-27T10:00:00.000",
+        "start": "2022-12-08T10:00:00.000",
+        "end": "2022-12-15T10:00:00.000",
         "extraData": {
             "raidbattles": {
                 "bosses": [
@@ -370,475 +200,444 @@
                         "canBeShiny": true
                     }
                 ],
-                "shinies": []
+                "shinies": [
+                    {
+                        "name": "Aggron",
+                        "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_306_00_shiny.png"
+                    }
+                ]
             }
         }
     },
     {
-        "eventID": "pokemonspotlighthour2022-09-27",
-        "name": "Minccino Spotlight Hour",
+        "eventID": "season-13-great-league_fighting-cup-great-league-edition-remix",
+        "name": "Great League and Fighting Cup: Great League Edition Remix | Mythical Wishes",
+        "eventType": "go-battle-league",
+        "heading": "GO Battle League",
+        "link": "https://leekduck.com/events/season-13-great-league_fighting-cup-great-league-edition-remix/",
+        "image": "https://leekduck.com/assets/img/events/gobattle-greatleague-key.jpg",
+        "start": "2022-12-08T21:00:00.000Z",
+        "end": "2022-12-15T21:00:00.000Z",
+        "extraData": null
+    },
+    {
+        "eventID": "december-communityday2022",
+        "name": "December Community Day",
+        "eventType": "community-day",
+        "heading": "Community Day",
+        "link": "https://leekduck.com/events/december-communityday2022/",
+        "image": "https://leekduck.com/assets/img/events/cd-default-3.jpg",
+        "start": "2022-12-17T14:00:00.000",
+        "end": "2022-12-18T17:00:00.000",
+        "extraData": null
+    },
+    {
+        "eventID": "pokemonspotlighthour2022-12-20",
+        "name": "Bergmite Spotlight Hour",
         "eventType": "pokemon-spotlight-hour",
         "heading": "Pokémon Spotlight Hour",
-        "link": "https://leekduck.com/events/pokemonspotlighthour2022-09-27/",
+        "link": "https://leekduck.com/events/pokemonspotlighthour2022-12-20/",
         "image": "https://leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
-        "start": "2022-09-27T18:00:00.000",
-        "end": "2022-09-27T19:00:00.000",
+        "start": "2022-12-20T18:00:00.000",
+        "end": "2022-12-20T19:00:00.000",
         "extraData": {
             "spotlight": {
-                "name": "Minccino",
+                "name": "Bergmite",
+                "canBeShiny": false,
+                "image": "https://leekduck.com/assets/img/pokemon_icons/pm712.icon.png",
+                "bonus": "2× Catch Candy"
+            }
+        }
+    },
+    {
+        "eventID": "raidhour20221221",
+        "name": "Cobalion Raid Hour",
+        "eventType": "raid-hour",
+        "heading": "Raid Hour",
+        "link": "https://leekduck.com/events/raidhour20221221/",
+        "image": "https://leekduck.com/assets/img/events/raidhour.jpg",
+        "start": "2022-12-21T18:00:00.000",
+        "end": "2022-12-21T19:00:00.000",
+        "extraData": null
+    },
+    {
+        "eventID": "season-13-ultra-league_ultra-premier-classic",
+        "name": "Ultra League and Ultra Premier Classic | Mythical Wishes",
+        "eventType": "go-battle-league",
+        "heading": "GO Battle League",
+        "link": "https://leekduck.com/events/season-13-ultra-league_ultra-premier-classic/",
+        "image": "https://leekduck.com/assets/img/events/go-battle-league-ultra-league-machamp-swampert.jpg",
+        "start": "2022-12-15T21:00:00.000Z",
+        "end": "2022-12-22T21:00:00.000Z",
+        "extraData": null
+    },
+    {
+        "eventID": "cobalion-in-5-star-raid-battles-december-2022",
+        "name": "Cobalion in 5-star Raid Battles",
+        "eventType": "raid-battles",
+        "heading": "Raid Battles",
+        "link": "https://leekduck.com/events/cobalion-in-5-star-raid-battles-december-2022/",
+        "image": "https://leekduck.com/assets/img/events/cobalion-raids-nov2019.jpg",
+        "start": "2022-12-15T10:00:00.000",
+        "end": "2022-12-23T10:00:00.000",
+        "extraData": {
+            "raidbattles": {
+                "bosses": [
+                    {
+                        "name": "Cobalion",
+                        "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_638_00.png",
+                        "canBeShiny": true
+                    }
+                ],
+                "shinies": [
+                    {
+                        "name": "Cobalion",
+                        "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_638_00_shiny.png"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "eventID": "winter-holiday-2022-part-1",
+        "name": "Winter Holiday - Part 1",
+        "eventType": "event",
+        "heading": "Event",
+        "link": "https://leekduck.com/events/winter-holiday-2022-part-1/",
+        "image": "https://leekduck.com/assets/img/events/events-default-img.jpg",
+        "start": "2022-12-15T10:00:00.000",
+        "end": "2022-12-23T10:00:00.000",
+        "extraData": null
+    },
+    {
+        "eventID": "hisuian-avalugg-raid-day",
+        "name": "Hisuian Avalugg Raid Day",
+        "eventType": "raid-day",
+        "heading": "Raid Day",
+        "link": "https://leekduck.com/events/hisuian-avalugg-raid-day/",
+        "image": "https://leekduck.com/assets/img/events/events-default-img.jpg",
+        "start": "2022-12-24T14:00:00.000",
+        "end": "2022-12-24T17:00:00.000",
+        "extraData": null
+    },
+    {
+        "eventID": "winter-wonderland-2022",
+        "name": "Winter Wonderland",
+        "eventType": "event",
+        "heading": "Event",
+        "link": "https://leekduck.com/events/winter-wonderland-2022/",
+        "image": "https://leekduck.com/assets/img/events/events-default-img.jpg",
+        "start": "2022-12-24T10:00:00.000",
+        "end": "2022-12-25T20:00:00.000",
+        "extraData": null
+    },
+    {
+        "eventID": "pokemonspotlighthour2022-12-27",
+        "name": "Cubchoo Spotlight Hour",
+        "eventType": "pokemon-spotlight-hour",
+        "heading": "Pokémon Spotlight Hour",
+        "link": "https://leekduck.com/events/pokemonspotlighthour2022-12-27/",
+        "image": "https://leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+        "start": "2022-12-27T18:00:00.000",
+        "end": "2022-12-27T19:00:00.000",
+        "extraData": {
+            "spotlight": {
+                "name": "Cubchoo",
                 "canBeShiny": true,
-                "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_572_00.png",
+                "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_613_00.png",
                 "bonus": "2× Transfer Candy"
             }
         }
     },
     {
-        "eventID": "raidhour20220928",
-        "name": "Yveltal Raid Hour",
+        "eventID": "raidhour20221228",
+        "name": "Kyurem Raid Hour",
         "eventType": "raid-hour",
         "heading": "Raid Hour",
-        "link": "https://leekduck.com/events/raidhour20220928/",
+        "link": "https://leekduck.com/events/raidhour20221228/",
         "image": "https://leekduck.com/assets/img/events/raidhour.jpg",
-        "start": "2022-09-28T18:00:00.000",
-        "end": "2022-09-28T19:00:00.000",
+        "start": "2022-12-28T18:00:00.000",
+        "end": "2022-12-28T19:00:00.000",
         "extraData": null
     },
     {
-        "eventID": "season-12-ultra-league_ultra-premier-classic",
-        "name": "Ultra League and Ultra Premier Classic | Season of Light",
+        "eventID": "season-13-ultra-league_holiday-cup-great-leauge-edition",
+        "name": "Ultra League and Holiday Cup: Great League Edition | Mythical Wishes",
         "eventType": "go-battle-league",
         "heading": "GO Battle League",
-        "link": "https://leekduck.com/events/season-12-ultra-league_ultra-premier-classic/",
+        "link": "https://leekduck.com/events/season-13-ultra-league_holiday-cup-great-leauge-edition/",
         "image": "https://leekduck.com/assets/img/events/go-battle-league-ultra-league-machamp-swampert.jpg",
-        "start": "2022-09-22T20:00:00.000Z",
-        "end": "2022-09-29T20:00:00.000Z",
+        "start": "2022-12-22T21:00:00.000Z",
+        "end": "2022-12-29T21:00:00.000Z",
         "extraData": null
     },
     {
-        "eventID": "september2022researchupdate",
-        "name": "September Research Breakthrough",
-        "eventType": "research-breakthrough",
-        "heading": "Research Breakthrough",
-        "link": "https://leekduck.com/events/september2022researchupdate/",
-        "image": "https://leekduck.com/assets/img/events/SummerResearchBreakthrough.jpg",
-        "start": "2022-09-01T20:00:00.000Z",
-        "end": "2022-10-01T20:00:00.000Z",
-        "extraData": {
-            "breakthrough": {
-                "name": "Medicham",
-                "canBeShiny": false,
-                "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_308_00.png"
-            }
-        }
-    },
-    {
-        "eventID": "go-battle-day-guzma",
-        "name": "GO Battle Day: Guzma",
+        "eventID": "winter-holiday-2022-part-2",
+        "name": "Winter Holiday - Part 2",
         "eventType": "event",
         "heading": "Event",
-        "link": "https://leekduck.com/events/go-battle-day-guzma/",
-        "image": "https://leekduck.com/assets/img/events/gobattlenightflyingcup.jpg",
-        "start": "2022-10-01T00:00:00.000",
-        "end": "2022-10-01T23:59:59.000",
-        "extraData": null
-    },
-    {
-        "eventID": "fashion-week-2022",
-        "name": "Fashion Week",
-        "eventType": "event",
-        "heading": "Event",
-        "link": "https://leekduck.com/events/fashion-week-2022/",
+        "link": "https://leekduck.com/events/winter-holiday-2022-part-2/",
         "image": "https://leekduck.com/assets/img/events/events-default-img.jpg",
-        "start": "2022-09-27T10:00:00.000",
-        "end": "2022-10-03T20:00:00.000",
+        "start": "2022-12-23T10:00:00.000",
+        "end": "2022-12-31T20:00:00.000",
         "extraData": null
     },
     {
-        "eventID": "season-12-master-league_master-premier-classic",
-        "name": "Master League and Master Premier Classic | Season of Light",
-        "eventType": "go-battle-league",
-        "heading": "GO Battle League",
-        "link": "https://leekduck.com/events/season-12-master-league_master-premier-classic/",
-        "image": "https://leekduck.com/assets/img/events/gobattleleague-master-key.jpg",
-        "start": "2022-09-29T20:00:00.000Z",
-        "end": "2022-10-06T20:00:00.000Z",
-        "extraData": null
-    },
-    {
-        "eventID": "yveltal-in-five-star-raids-september-2022",
-        "name": "Yveltal in 5-star Raid Battles",
+        "eventID": "kyurem-in-5-star-raid-battles-december-2022",
+        "name": "Kyurem in 5-star Raid Battles",
         "eventType": "raid-battles",
         "heading": "Raid Battles",
-        "link": "https://leekduck.com/events/yveltal-in-five-star-raids-september-2022/",
-        "image": "https://leekduck.com/assets/img/events/yveltal-2.jpg",
-        "start": "2022-09-27T10:00:00.000",
-        "end": "2022-10-08T10:00:00.000",
+        "link": "https://leekduck.com/events/kyurem-in-5-star-raid-battles-december-2022/",
+        "image": "https://leekduck.com/assets/img/events/kyurem.jpg",
+        "start": "2022-12-23T10:00:00.000",
+        "end": "2023-01-01T10:00:00.000",
         "extraData": {
             "raidbattles": {
                 "bosses": [
                     {
-                        "name": "Yveltal",
-                        "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_717_00.png",
-                        "canBeShiny": false
-                    }
-                ],
-                "shinies": [
-                    {
-                        "name": "Yveltal",
-                        "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_717_00_shiny.png"
-                    }
-                ]
-            }
-        }
-    },
-    {
-        "eventID": "mega-lopunny-in-mega-raids-september-2022",
-        "name": "Mega Lopunny in Mega Raids",
-        "eventType": "raid-battles",
-        "heading": "Raid Battles",
-        "link": "https://leekduck.com/events/mega-lopunny-in-mega-raids-september-2022/",
-        "image": "https://leekduck.com/assets/img/events/mega-default.jpg",
-        "start": "2022-09-27T10:00:00.000",
-        "end": "2022-10-08T10:00:00.000",
-        "extraData": {
-            "raidbattles": {
-                "bosses": [
-                    {
-                        "name": "Mega Lopunny",
-                        "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_428_51.png",
+                        "name": "Kyurem",
+                        "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_646_11.png",
                         "canBeShiny": true
                     }
                 ],
-                "shinies": []
-            }
-        }
-    },
-    {
-        "eventID": "season-12-master-league_evolution-cup",
-        "name": "Master League and Evolution Cup | Season of Light",
-        "eventType": "go-battle-league",
-        "heading": "GO Battle League",
-        "link": "https://leekduck.com/events/season-12-master-league_evolution-cup/",
-        "image": "https://leekduck.com/assets/img/events/gobattleleague-master-key.jpg",
-        "start": "2022-10-06T20:00:00.000Z",
-        "end": "2022-10-13T20:00:00.000Z",
-        "extraData": null
-    },
-    {
-        "eventID": "october-communityday2022",
-        "name": "October Community Day",
-        "eventType": "community-day",
-        "heading": "Community Day",
-        "link": "https://leekduck.com/events/october-communityday2022/",
-        "image": "https://leekduck.com/assets/img/events/events-default-img.jpg",
-        "start": "2022-10-15T11:00:00.000",
-        "end": "2022-10-15T14:00:00.000",
-        "extraData": {
-            "communityday": {
-                "spawns": [
-                    {
-                        "name": "Litwick",
-                        "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_607_00.png"
-                    },
-                    {
-                        "name": "Roggenrola2",
-                        "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_524_00.png"
-                    }
-                ],
-                "bonuses": [
-                    {
-                        "text": "Increased Spawns",
-                        "image": "https://leekduck.com/assets/img/events/bonuses/wildgrass.png"
-                    },
-                    {
-                        "text": "3x Catch XP",
-                        "image": "https://leekduck.com/assets/img/events/bonuses/xp.png"
-                    },
-                    {
-                        "text": "3-hour Incense",
-                        "image": "https://leekduck.com/assets/img/events/bonuses/incense.png"
-                    },
-                    {
-                        "text": "3-hour Lures",
-                        "image": "https://leekduck.com/assets/img/events/bonuses/luresall.png"
-                    },
-                    {
-                        "text": "2x Catch Candy",
-                        "image": "https://leekduck.com/assets/img/events/bonuses/candy.png"
-                    },
-                    {
-                        "text": "2x Chance to receive Candy XL from catching Pokémon",
-                        "image": "https://leekduck.com/assets/img/events/bonuses/candyxl.png"
-                    },
-                    {
-                        "text": "One additional Special Trade can be made for a maximum of two for the day*",
-                        "image": "https://leekduck.com/assets/img/events/bonuses/trade.png"
-                    },
-                    {
-                        "text": "Trades made will require 50% less Stardust*",
-                        "image": "https://leekduck.com/assets/img/events/bonuses/stardust2x.png"
-                    }
-                ],
-                "bonusDisclaimers": [
-                    "* While most bonuses are only active during the three hours of the event, these bonuses will be active from 2:00 p.m. to 10:00 p.m. local time."
-                ],
                 "shinies": [
                     {
-                        "name": "Litwick",
-                        "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_607_00_shiny.png"
-                    },
-                    {
-                        "name": "Lampent",
-                        "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_608_00_shiny.png"
-                    },
-                    {
-                        "name": "Chandelure",
-                        "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_609_00_shiny.png"
-                    }
-                ],
-                "specialresearch": [
-                    {
-                        "name": "Trick of the Light (1/4)",
-                        "step": 1,
-                        "tasks": [
-                            {
-                                "text": "???",
-                                "reward": {
-                                    "text": "???",
-                                    "image": "https://leekduck.com/assets/img/icons/unknown.png"
-                                }
-                            },
-                            {
-                                "text": "???",
-                                "reward": {
-                                    "text": "???",
-                                    "image": "https://leekduck.com/assets/img/icons/unknown.png"
-                                }
-                            },
-                            {
-                                "text": "???",
-                                "reward": {
-                                    "text": "???",
-                                    "image": "https://leekduck.com/assets/img/icons/unknown.png"
-                                }
-                            }
-                        ],
-                        "rewards": [
-                            {
-                                "text": "???",
-                                "image": "https://leekduck.com/assets/img/icons/unknown.png"
-                            },
-                            {
-                                "text": "???",
-                                "image": "https://leekduck.com/assets/img/icons/unknown.png"
-                            },
-                            {
-                                "text": "???",
-                                "image": "https://leekduck.com/assets/img/icons/unknown.png"
-                            }
-                        ]
+                        "name": "Kyurem",
+                        "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_646_11_shiny.png"
                     }
                 ]
             }
         }
     },
     {
-        "eventID": "season-12-great-league_ultra-league_master-league",
-        "name": "The Great League, Ultra League, and Master League | Season of Light",
-        "eventType": "go-battle-league",
-        "heading": "GO Battle League",
-        "link": "https://leekduck.com/events/season-12-great-league_ultra-league_master-league/",
-        "image": "https://leekduck.com/assets/img/events/go-battle-league-season-12-season-of-light.jpg",
-        "start": "2022-10-13T20:00:00.000Z",
-        "end": "2022-10-20T20:00:00.000Z",
-        "extraData": null
-    },
-    {
-        "eventID": "safari-zone-at-taipei-city-2022",
-        "name": "Safari Zone: Taipei City",
-        "eventType": "safari-zone",
-        "heading": "Safari Zone",
-        "link": "https://leekduck.com/events/safari-zone-at-taipei-city-2022/",
-        "image": "https://leekduck.com/assets/img/events/safari-zone-taipei-city.jpg",
-        "start": "2022-10-21T10:00:00.000",
-        "end": "2022-10-23T20:00:00.000",
-        "extraData": null
-    },
-    {
-        "eventID": "season-12-great-league_halloween-cup",
-        "name": "Great League and Halloween Cup | Season of Light",
-        "eventType": "go-battle-league",
-        "heading": "GO Battle League",
-        "link": "https://leekduck.com/events/season-12-great-league_halloween-cup/",
-        "image": "https://leekduck.com/assets/img/events/gobattle-greatleague-key.jpg",
-        "start": "2022-10-20T20:00:00.000Z",
-        "end": "2022-10-27T20:00:00.000Z",
-        "extraData": null
-    },
-    {
-        "eventID": "october2022researchupdate",
-        "name": "October Research Breakthrough",
-        "eventType": "research-breakthrough",
-        "heading": "Research Breakthrough",
-        "link": "https://leekduck.com/events/october2022researchupdate/",
-        "image": "https://leekduck.com/assets/img/events/research-breakthrough-fall-halloween-logo.jpg",
-        "start": "2022-10-01T20:00:00.000Z",
-        "end": "2022-11-01T20:00:00.000Z",
+        "eventID": "mega-glalie-in-mega-raids-december-2022",
+        "name": "Mega Glalie in Mega Raids",
+        "eventType": "raid-battles",
+        "heading": "Raid Battles",
+        "link": "https://leekduck.com/events/mega-glalie-in-mega-raids-december-2022/",
+        "image": "https://leekduck.com/assets/img/events/mega-default.jpg",
+        "start": "2022-12-15T10:00:00.000",
+        "end": "2023-01-01T10:00:00.000",
         "extraData": {
-            "breakthrough": {
-                "name": "Shedinja",
-                "canBeShiny": false,
-                "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_292_00.png"
+            "raidbattles": {
+                "bosses": [
+                    {
+                        "name": "Mega Glalie",
+                        "image": "https://leekduck.com/assets/img/pokemon_icons/pm362.fMEGA.icon.png",
+                        "canBeShiny": true
+                    }
+                ],
+                "shinies": [
+                    {
+                        "name": "Glalie",
+                        "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_362_00_shiny.png"
+                    }
+                ]
             }
         }
     },
     {
-        "eventID": "season-12-great-league_halloween-cup-ultra-league-edition",
-        "name": "Great League and Halloween Cup: Ultra League Edition | Season of Light",
+        "eventID": "season-13-master-league_holiday-cup-ultra-leauge-edition",
+        "name": "Master League and Holiday Cup: Ultra League Edition | Mythical Wishes",
         "eventType": "go-battle-league",
         "heading": "GO Battle League",
-        "link": "https://leekduck.com/events/season-12-great-league_halloween-cup-ultra-league-edition/",
-        "image": "https://leekduck.com/assets/img/events/gobattle-greatleague-key.jpg",
-        "start": "2022-10-27T20:00:00.000Z",
-        "end": "2022-11-03T20:00:00.000Z",
+        "link": "https://leekduck.com/events/season-13-master-league_holiday-cup-ultra-leauge-edition/",
+        "image": "https://leekduck.com/assets/img/events/gobattleleague-master-key.jpg",
+        "start": "2022-12-29T21:00:00.000Z",
+        "end": "2023-01-05T21:00:00.000Z",
         "extraData": null
     },
     {
-        "eventID": "november-communitydayclassic2022",
-        "name": "November Community Day Classic",
+        "eventID": "january-communityday2023",
+        "name": "January Community Day",
         "eventType": "community-day",
         "heading": "Community Day",
-        "link": "https://leekduck.com/events/november-communitydayclassic2022/",
-        "image": "https://leekduck.com/assets/img/events/events-default-img.jpg",
-        "start": "2022-11-05T11:00:00.000",
-        "end": "2022-11-05T14:00:00.000",
+        "link": "https://leekduck.com/events/january-communityday2023/",
+        "image": "https://leekduck.com/assets/img/events/cd-default-3.jpg",
+        "start": "2023-01-07T14:00:00.000",
+        "end": "2023-01-07T17:00:00.000",
         "extraData": null
     },
     {
-        "eventID": "go-battle-day-miltank",
-        "name": "GO Battle Day: Miltank",
+        "eventID": "season-13-master-league_master-premier-classic",
+        "name": "Master League and Master Premier Classic | Mythical Wishes",
+        "eventType": "go-battle-league",
+        "heading": "GO Battle League",
+        "link": "https://leekduck.com/events/season-13-master-league_master-premier-classic/",
+        "image": "https://leekduck.com/assets/img/events/gobattleleague-master-key.jpg",
+        "start": "2023-01-05T21:00:00.000Z",
+        "end": "2023-01-12T21:00:00.000Z",
+        "extraData": null
+    },
+    {
+        "eventID": "go-battle-day-steven-stone",
+        "name": "GO Battle Day: Steven Stone",
         "eventType": "event",
         "heading": "Event",
-        "link": "https://leekduck.com/events/go-battle-day-miltank/",
+        "link": "https://leekduck.com/events/go-battle-day-steven-stone/",
         "image": "https://leekduck.com/assets/img/events/gobattlenightflyingcup.jpg",
-        "start": "2022-11-06T00:00:00.000",
-        "end": "2022-11-06T23:59:59.000",
+        "start": "2023-01-14T00:00:00.000",
+        "end": "2023-01-15T23:59:59.000",
         "extraData": null
     },
     {
-        "eventID": "season-12-ultra-league_willpower-cup",
-        "name": "Ultra League and Willpower Cup | Season of Light",
+        "eventID": "season-13-great-league_ultra-league_master-league",
+        "name": "Great League, Ultra League, and Master League | Mythical Wishes",
         "eventType": "go-battle-league",
         "heading": "GO Battle League",
-        "link": "https://leekduck.com/events/season-12-ultra-league_willpower-cup/",
-        "image": "https://leekduck.com/assets/img/events/go-battle-league-ultra-league-machamp-swampert.jpg",
-        "start": "2022-11-03T20:00:00.000Z",
-        "end": "2022-11-10T21:00:00.000Z",
+        "link": "https://leekduck.com/events/season-13-great-league_ultra-league_master-league/",
+        "image": "https://leekduck.com/assets/img/events/go-battle-league-season-13-mythical-wishes.jpg",
+        "start": "2023-01-12T21:00:00.000Z",
+        "end": "2023-01-19T21:00:00.000Z",
         "extraData": null
     },
     {
-        "eventID": "november-communityday2022",
-        "name": "November Community Day",
+        "eventID": "january-communitydayclassic2023",
+        "name": "Janaury Community Day Classic",
         "eventType": "community-day",
         "heading": "Community Day",
-        "link": "https://leekduck.com/events/november-communityday2022/",
-        "image": "https://leekduck.com/assets/img/events/events-default-img.jpg",
-        "start": "2022-11-12T11:00:00.000",
-        "end": "2022-11-12T14:00:00.000",
+        "link": "https://leekduck.com/events/january-communitydayclassic2023/",
+        "image": "https://leekduck.com/assets/img/events/cd-default-3.jpg",
+        "start": "2023-01-21T14:00:00.000",
+        "end": "2023-01-21T17:00:00.000",
         "extraData": null
     },
     {
-        "eventID": "season-12-ultra-league_ultra-premier",
-        "name": "Ultra League and Ultra Premier | Season of Light",
+        "eventID": "season-13-great-league_weather-cup-great-league-edition",
+        "name": "Great League and Weather Cup: Great League Edition | Mythical Wishes",
         "eventType": "go-battle-league",
         "heading": "GO Battle League",
-        "link": "https://leekduck.com/events/season-12-ultra-league_ultra-premier/",
+        "link": "https://leekduck.com/events/season-13-great-league_weather-cup-great-league-edition/",
+        "image": "https://leekduck.com/assets/img/events/gobattle-greatleague-key.jpg",
+        "start": "2023-01-19T21:00:00.000Z",
+        "end": "2023-01-26T21:00:00.000Z",
+        "extraData": null
+    },
+    {
+        "eventID": "season-13-great-league_electric-cup-great-league-edition",
+        "name": "Great League and Electric Cup: Great League Edition | Mythical Wishes",
+        "eventType": "go-battle-league",
+        "heading": "GO Battle League",
+        "link": "https://leekduck.com/events/season-13-great-league_electric-cup-great-league-edition/",
+        "image": "https://leekduck.com/assets/img/events/gobattle-greatleague-key.jpg",
+        "start": "2023-01-26T21:00:00.000Z",
+        "end": "2023-02-02T21:00:00.000Z",
+        "extraData": null
+    },
+    {
+        "eventID": "february-communityday2023",
+        "name": "February Community Day",
+        "eventType": "community-day",
+        "heading": "Community Day",
+        "link": "https://leekduck.com/events/february-communityday2023/",
+        "image": "https://leekduck.com/assets/img/events/cd-default-3.jpg",
+        "start": "2023-02-05T14:00:00.000",
+        "end": "2023-02-05T17:00:00.000",
+        "extraData": null
+    },
+    {
+        "eventID": "season-13-ultra-league_ultra-premier",
+        "name": "Ultra League and Ultra Premier | Mythical Wishes",
+        "eventType": "go-battle-league",
+        "heading": "GO Battle League",
+        "link": "https://leekduck.com/events/season-13-ultra-league_ultra-premier/",
         "image": "https://leekduck.com/assets/img/events/go-battle-league-ultra-league-machamp-swampert.jpg",
-        "start": "2022-11-10T21:00:00.000Z",
-        "end": "2022-11-17T21:00:00.000Z",
+        "start": "2023-02-02T21:00:00.000Z",
+        "end": "2023-02-09T21:00:00.000Z",
         "extraData": null
     },
     {
-        "eventID": "safari-zone-at-singapore-2022",
-        "name": "Safari Zone at Singapore",
-        "eventType": "safari-zone",
-        "heading": "Safari Zone",
-        "link": "https://leekduck.com/events/safari-zone-at-singapore-2022/",
-        "image": "https://leekduck.com/assets/img/events/safari-zone-singapore-2022.jpg",
-        "start": "2022-11-18T10:00:00.000",
-        "end": "2022-11-20T20:00:00.000",
+        "eventID": "go-battle-day-vulpix",
+        "name": "GO Battle Day: Vulpix",
+        "eventType": "event",
+        "heading": "Event",
+        "link": "https://leekduck.com/events/go-battle-day-vulpix/",
+        "image": "https://leekduck.com/assets/img/events/gobattlenightflyingcup.jpg",
+        "start": "2023-02-12T00:00:00.000",
+        "end": "2023-02-12T23:59:59.000",
         "extraData": null
     },
     {
-        "eventID": "season-12-master-league_element-cup-remix",
-        "name": "Master League and Element Cup Remix | Season of Light",
+        "eventID": "season-13-ultra-league_love-cup-great-league-edition",
+        "name": "Ultra League and Love Cup: Great League Edition | Mythical Wishes",
         "eventType": "go-battle-league",
         "heading": "GO Battle League",
-        "link": "https://leekduck.com/events/season-12-master-league_element-cup-remix/",
+        "link": "https://leekduck.com/events/season-13-ultra-league_love-cup-great-league-edition/",
+        "image": "https://leekduck.com/assets/img/events/go-battle-league-ultra-league-machamp-swampert.jpg",
+        "start": "2023-02-09T21:00:00.000Z",
+        "end": "2023-02-16T21:00:00.000Z",
+        "extraData": null
+    },
+    {
+        "eventID": "pokemon-go-tour-hoenn-live-event-las-vegas",
+        "name": "Pokémon GO Tour: Hoenn - Las Vegas",
+        "eventType": "pokemon-go-tour",
+        "heading": "Pokémon GO Tour",
+        "link": "https://leekduck.com/events/pokemon-go-tour-hoenn-live-event-las-vegas/",
+        "image": "https://leekduck.com/assets/img/events/pokemon-go-tour-2023-hoenn-las-vegas.jpg",
+        "start": "2023-02-18T18:00:00.000Z",
+        "end": "2023-02-20T02:00:00.000Z",
+        "extraData": null
+    },
+    {
+        "eventID": "season-13-master-league_master-premier",
+        "name": "Master League and Master Premier | Mythical Wishes",
+        "eventType": "go-battle-league",
+        "heading": "GO Battle League",
+        "link": "https://leekduck.com/events/season-13-master-league_master-premier/",
         "image": "https://leekduck.com/assets/img/events/gobattleleague-master-key.jpg",
-        "start": "2022-11-17T21:00:00.000Z",
-        "end": "2022-11-24T21:00:00.000Z",
+        "start": "2023-02-16T21:00:00.000Z",
+        "end": "2023-02-23T21:00:00.000Z",
         "extraData": null
     },
     {
-        "eventID": "verizon-pokemon-go-partner-research",
-        "name": "Partner Research for Verizon Customers",
-        "eventType": "research",
-        "heading": "Research",
-        "link": "https://leekduck.com/events/verizon-pokemon-go-partner-research/",
-        "image": "https://leekduck.com/assets/img/events/verizon-partner-research.jpg",
-        "start": null,
-        "end": "2022-11-30T21:00:00.000",
+        "eventID": "pokemon-go-tour-hoenn-global",
+        "name": "Pokémon GO Tour: Hoenn - Global",
+        "eventType": "pokemon-go-tour",
+        "heading": "Pokémon GO Tour",
+        "link": "https://leekduck.com/events/pokemon-go-tour-hoenn-global/",
+        "image": "https://leekduck.com/assets/img/events/pokemon-go-tour-hoenn-global.jpg",
+        "start": "2023-02-25T10:00:00.000",
+        "end": "2023-02-26T18:00:00.000",
         "extraData": null
     },
     {
-        "eventID": "season-of-light",
-        "name": "Season of Light",
+        "eventID": "season-9-mythical-wishes",
+        "name": "Season 9: Mythical Wishes",
         "eventType": "season",
         "heading": "Season",
-        "link": "https://leekduck.com/events/season-of-light/",
-        "image": "https://leekduck.com/assets/img/events/season-of-light.jpg",
-        "start": null,
-        "end": "2022-12-01T10:00:00.000",
+        "link": "https://leekduck.com/events/season-9-mythical-wishes/",
+        "image": "https://leekduck.com/assets/img/events/season9-mythical-wishes.jpg",
+        "start": "2022-12-01T10:00:00.000",
+        "end": "2023-03-01T10:00:00.000",
         "extraData": null
     },
     {
-        "eventID": "season-12-master-league_catch-cup-season-of-light-edition",
-        "name": "Master League and Catch Cup: Season of Light Edition | Season of Light",
-        "eventType": "go-battle-league",
-        "heading": "GO Battle League",
-        "link": "https://leekduck.com/events/season-12-master-league_catch-cup-season-of-light-edition/",
-        "image": "https://leekduck.com/assets/img/events/gobattleleague-master-key.jpg",
-        "start": "2022-11-24T21:00:00.000Z",
-        "end": "2022-12-01T21:00:00.000Z",
-        "extraData": null
-    },
-    {
-        "eventID": "november2022researchupdate",
-        "name": "November Research Breakthrough",
+        "eventID": "season-9-mythical-wishes-research-breakthrough",
+        "name": "Mythical Wishes Research Breakthrough - Season 9",
         "eventType": "research-breakthrough",
         "heading": "Research Breakthrough",
-        "link": "https://leekduck.com/events/november2022researchupdate/",
-        "image": "https://leekduck.com/assets/img/events/researchFall.jpg",
-        "start": "2022-11-01T21:00:00.000Z",
-        "end": "2022-12-01T21:00:00.000Z",
+        "link": "https://leekduck.com/events/season-9-mythical-wishes-research-breakthrough/",
+        "image": "https://leekduck.com/assets/img/events/researchWinter.jpg",
+        "start": "2022-12-01T21:00:00.000Z",
+        "end": "2023-03-01T21:00:00.000Z",
         "extraData": {
             "breakthrough": {
-                "name": "Starmie",
-                "canBeShiny": false,
-                "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_121_00.png"
+                "name": "Galarian Mr. Mime",
+                "canBeShiny": true,
+                "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_122_31.png"
             }
         }
     },
     {
-        "eventID": "shiny-corsola-okinawa-shirt-pikachu",
-        "name": "Pikachu wearing an Okinawan kariyushi shirt and Shiny Corsola",
-        "eventType": "location-specific",
-        "heading": "Location-specific",
-        "link": "https://leekduck.com/events/shiny-corsola-okinawa-shirt-pikachu/",
-        "image": "https://leekduck.com/assets/img/events/pikachu-okinawa.jpg",
-        "start": null,
-        "end": null,
+        "eventID": "season-13-master-league-mega-edition_hoenn-cup-great-league-edition",
+        "name": "Master League: Mega Edition and Hoenn Cup: Great League Edition | Mythical Wishes",
+        "eventType": "go-battle-league",
+        "heading": "GO Battle League",
+        "link": "https://leekduck.com/events/season-13-master-league-mega-edition_hoenn-cup-great-league-edition/",
+        "image": "https://leekduck.com/assets/img/events/gobattleleague-master-key.jpg",
+        "start": "2023-02-23T21:00:00.000Z",
+        "end": "2023-03-01T21:00:00.000Z",
         "extraData": null
     }
 ]
