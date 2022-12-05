@@ -30,13 +30,13 @@
     },
     {
         "eventID": "raidhour20221208",
-        "name": "GGC4a Raid Hour",
+        "name": "GGCz Raid Hour",
         "eventType": "raid-hour",
         "heading": "Raid Hour",
         "link": "https://leekduck.com/events/raidhour20221207/",
         "image": "https://leekduck.com/assets/img/events/raidhour.jpg",
-        "start": "2022-12-05T19:10:00.000",
-        "end": "2022-12-05T19:20:00.000",
+        "start": "2022-12-06T19:10:00.000",
+        "end": "2022-12-06T19:20:00.000",
         "extraData": null
     },
     {
