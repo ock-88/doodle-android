@@ -1,107 +1,24 @@
 [
     {
-        "eventID": "pokemonspotlighthour2022-12-06",
-        "name": "Wooper Spotlight Hour",
-        "eventType": "pokemon-spotlight-hour",
-        "heading": "Pokémon Spotlight Hour",
-        "link": "https://leekduck.com/events/pokemonspotlighthour2022-12-06/",
-        "image": "https://leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
-        "start": "2022-12-06T18:00:00.000",
-        "end": "2022-12-06T19:00:00.000",
-        "extraData": {
-            "spotlight": {
-                "name": "Wooper",
-                "canBeShiny": true,
-                "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_194_00.png",
-                "bonus": "2× Catch Stardust"
-            }
-        }
-    },
-    {
-        "eventID": "raidhour20221207",
-        "name": "Virizion Raid Hour",
-        "eventType": "raid-hour",
-        "heading": "Raid Hour",
-        "link": "https://leekduck.com/events/raidhour20221207/",
-        "image": "https://leekduck.com/assets/img/events/raidhour.jpg",
-        "start": "2022-12-07T18:00:00.000",
-        "end": "2022-12-07T19:00:00.000",
-        "extraData": null
-    },
-    {
-        "eventID": "verizion-in-5-star-raid-battles-december-2022",
-        "name": "Virizion in 5-star Raid Battles",
-        "eventType": "raid-battles",
-        "heading": "Raid Battles",
-        "link": "https://leekduck.com/events/verizion-in-5-star-raid-battles-december-2022/",
-        "image": "https://leekduck.com/assets/img/events/virizion.jpg",
-        "start": "2022-12-01T10:00:00.000",
-        "end": "2022-12-08T10:00:00.000",
-        "extraData": {
-            "raidbattles": {
-                "bosses": [
-                    {
-                        "name": "Virizion",
-                        "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_640_00.png",
-                        "canBeShiny": true
-                    }
-                ],
-                "shinies": [
-                    {
-                        "name": "Virizion",
-                        "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_640_00_shiny.png"
-                    }
-                ]
-            }
-        }
-    },
-    {
-        "eventID": "mega-abomasnow-in-mega-raids-december-2022",
-        "name": "Mega Abomasnow in Mega Raids",
-        "eventType": "raid-battles",
-        "heading": "Raid Battles",
-        "link": "https://leekduck.com/events/mega-abomasnow-in-mega-raids-december-2022/",
-        "image": "https://leekduck.com/assets/img/events/mega-default.jpg",
-        "start": "2022-12-01T10:00:00.000",
-        "end": "2022-12-08T10:00:00.000",
-        "extraData": {
-            "raidbattles": {
-                "bosses": [
-                    {
-                        "name": "Mega Abomasnow",
-                        "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_460_51.png",
-                        "canBeShiny": true
-                    }
-                ],
-                "shinies": [
-                    {
-                        "name": "Abomasnow",
-                        "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_460_00_shiny.png"
-                    }
-                ]
-            }
-        }
-    },
-    {
-        "eventID": "season-13-great-league_great-league-remix",
-        "name": "Great League and Great League Remix | Mythical Wishes",
-        "eventType": "go-battle-league",
-        "heading": "GO Battle League",
-        "link": "https://leekduck.com/events/season-13-great-league_great-league-remix/",
-        "image": "https://leekduck.com/assets/img/events/gobattle-greatleague-key.jpg",
-        "start": "2022-12-01T21:00:00.000Z",
-        "end": "2022-12-08T21:00:00.000Z",
-        "extraData": null
-    },
-    {
-        "eventID": "unannounced-elite-raid-december-2022",
-        "name": "Unannounced Pokémon in Elite Raids",
+        "eventID": "hoopa-unbound-elite-raid-december-2022",
+        "name": "Hoopa Unbound in Elite Raids",
         "eventType": "elite-raids",
         "heading": "Elite Raids",
-        "link": "https://leekduck.com/events/unannounced-elite-raid-december-2022/",
-        "image": "https://leekduck.com/assets/img/events/events-default-img.jpg",
+        "link": "https://leekduck.com/events/hoopa-unbound-elite-raid-december-2022/",
+        "image": "https://leekduck.com/assets/img/events/hoopa-unbound-elite-raids.jpg",
         "start": "2022-12-10T11:00:00.000",
         "end": "2022-12-10T17:00:00.000",
+        "extraData": null
+    },
+    {
+        "eventID": "something-extraordinary-keldeo-special-research",
+        "name": "Something Extraordinary: Keldeo Special Research",
+        "eventType": "research",
+        "heading": "Research",
+        "link": "https://leekduck.com/events/something-extraordinary-keldeo-special-research/",
+        "image": "https://leekduck.com/assets/img/events/mythic-blade-keledo.jpg",
+        "start": "2022-12-10T10:00:00.000",
+        "end": "2022-12-11T20:00:00.000",
         "extraData": null
     },
     {
@@ -113,17 +30,6 @@
         "image": "https://leekduck.com/assets/img/events/mythic-blade-keledo.jpg",
         "start": "2022-12-06T10:00:00.000",
         "end": "2022-12-11T20:00:00.000",
-        "extraData": null
-    },
-    {
-        "eventID": "something-extraordinary-keldeo-special-research",
-        "name": "Something Extraordinary: Keldeo Special Research",
-        "eventType": "research",
-        "heading": "Research",
-        "link": "https://leekduck.com/events/something-extraordinary-keldeo-special-research/",
-        "image": "https://leekduck.com/assets/img/events/mythic-blade-keledo.jpg",
-        "start": "2022-12-10T10:00:00.000",
-        "end": "2022-12-11T22:00:00.000",
         "extraData": null
     },
     {
@@ -146,7 +52,7 @@
     },
     {
         "eventID": "raidhour20221214",
-        "name": "Terrakionz Raid Hour",
+        "name": "Terrakion Raid Hour",
         "eventType": "raid-hour",
         "heading": "Raid Hour",
         "link": "https://leekduck.com/events/raidhour20221214/",
@@ -157,7 +63,7 @@
     },
     {
         "eventID": "terrakion-in-5-star-raid-battles-december-2022",
-        "name": "Terrakionz in 5-star Raid Battles",
+        "name": "Terrakion in 5-star Raid Battles",
         "eventType": "raid-battles",
         "heading": "Raid Battles",
         "link": "https://leekduck.com/events/terrakion-in-5-star-raid-battles-december-2022/",
